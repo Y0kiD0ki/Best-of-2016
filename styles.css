@@ -1,0 +1,181 @@
+/*Sarah Huang
+November 18, 2016
+Best of 2016 CSS*/
+.navigation_bar	{
+				border:2px dotted black;
+				margin-left:auto;
+				margin-right:auto;
+}
+.navigation_text	{
+					text-align:center;
+}
+body	{
+		background-color:#AA6BFA;
+		color:white;
+}
+table	{
+		border:2px solid black;
+		border-collapse:collapse;
+		margin-left:auto;
+		margin-right: auto;
+		font-family:"Palatino Linotype",Arial;
+		font-size:19px;
+}
+h1		{
+		text-align:center;
+}
+p		{
+		text-align:center;
+		font-family:Georgia,"Times New Roman";
+}
+hr		{
+		color:black;
+}
+.index_pics		{
+				border-color:black;
+				
+}
+.rezero		{
+			background-color:#FF0015;
+			color:black;
+}
+.danganronpa	{
+				background-color:#FF3F00;
+				color:black;
+}
+.erased		{
+			background-color:#F46919;
+			color:black;
+}
+.dgray_man_hallow		{
+						background-color:#F49B19;
+						color:black;
+}
+.assassination_classroom	{
+							background-color:#F9FF00;
+							color:black;
+}
+.haikyuu	{
+			background-color:#A1FF00;
+			color:black;
+}
+.bungo_stray_dogs		{
+						background-color:#4DFF00;
+						color:black;
+}
+.food_wars		{
+				background-color:#00FF14;
+				color:black;
+}
+.occultic_nine		{
+					background-color:#00FF85;
+					color:black;
+}
+
+.nanbaka		{
+				background-color:#00FFC8;
+				color:black;
+}
+.relife		{
+			background-color:#00F2FF;
+			color:black;
+}
+.mob_psycho_100		{
+					background-color:#00ABFF;
+					color:black;
+}
+.cute_high_earth_defense_club		{
+									background-color:#0070FF;
+									color:black;
+}
+.dagashi_kashi		{
+					background-color:#000FFF;
+					color:black;
+}
+.sakamoto		{
+				background-color:#6200FF;
+				color:black;
+}
+.yuri_on_ice		{
+					background-color:#9500FF;
+					color:black;
+}
+
+
+
+.rere		{
+			background-color:#4500FF;
+			color:black;
+}
+.redo		{
+			background-color:#6600FF;
+			color:black;
+}
+.bye_bye_yesterday		{
+						background-color:#7B00FF;
+						color:black;
+}
+.ninetynine		{
+				background-color:#9D00FF;
+				color:black;
+}
+.history_maker		{
+					background-color:#B200FF;
+					color:black;
+}
+.steppin_out		{
+					background-color:#CB00FF;
+					color:black;
+}
+.kamiiro_awase		{
+					background-color:#E000FF;
+					color:black;
+}
+.reason_living		{
+					background-color:#F500FF;
+					color:black;
+}
+.bring_it_on_my_destiny		{
+							background-color:#FF00F8;
+							color:black;
+}
+.rin_rin_hi_hi		{
+					background-color:#FF00DF;
+					color:black;
+}
+.seisuu_three_no_nijou		{
+							background-color:#FF00A4;
+							color:black;
+}
+.jinsei_wa_subarashii		{
+							background-color:#FF0076;
+							color:black;
+}
+
+
+
+.fire_emblem_fates	{
+					background-color:Chartreuse;
+					color:black;
+					
+}
+.rhythm_heaven	{
+				background-color:MediumSpringGreen;
+				color:black;
+					
+}
+.kirby	{
+		background-color:aqua;
+		color:black;
+					
+}
+.ace_attorney	{
+				background-color:DeepSkyBlue;
+				color:black;
+					
+}
+.pokemon	{
+			background-color:DodgerBlue;
+			color:black;
+					
+}
